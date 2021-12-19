@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/common/common.iml" filepath="$PROJECT_DIR$/Algorithms/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/daydayup.iml" filepath="$PROJECT_DIR$/.idea/daydayup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/practices/practices.iml" filepath="$PROJECT_DIR$/Algorithms/practices/practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/programmer-interview-golden-rule/programmer-interview-golden-rule.iml" filepath="$PROJECT_DIR$/Algorithms/programmer-interview-golden-rule/programmer-interview-golden-rule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/sword-finger-offer/sword-finger-offer.iml" filepath="$PROJECT_DIR$/Algorithms/sword-finger-offer/sword-finger-offer.iml" />
+    </modules>
+  </component>
+</project>
