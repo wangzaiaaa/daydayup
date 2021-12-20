@@ -2,8 +2,6 @@ package chapter2;
 
 import top.zw.datastruct.listnode.ListNode;
 
-import java.util.List;
-
 public class Question1 {
 
     public boolean isPalindrome(ListNode head) {
